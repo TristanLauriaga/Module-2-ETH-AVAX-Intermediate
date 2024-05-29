@@ -10,7 +10,7 @@ You can gey the code in the website https://github.com/TristanLauriaga/Module-2-
 
 ========================================
 
-## Changed functions and UI
+## Changes in functions and UI
 
 I have changed quite a number of functions to make the code as different as Mr.Chris is. As you run my code you will see the difference in of course the front end and my code will let you input your desired ammount to be put into. Also you can see the Transaction history with every transaction made. Then the last addition to my code is the confirmation window when you want to store and consume runes.
 
